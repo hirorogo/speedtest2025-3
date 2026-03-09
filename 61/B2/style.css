@@ -12,5 +12,15 @@ body {
     justify-content: center;
 }
 .right{
-  bor
+    border-radius:50% 10px ;
+    
+}
+.green{
+    background: green;
+
+}
+@keyframes green {
+    0%{
+        opacity: 100%;
+    }
 }
